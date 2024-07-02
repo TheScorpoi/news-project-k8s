@@ -8,6 +8,10 @@ Este projeto foi desenvolvido no âmbito da uc GIC.
 
 O nosso projeto consiste numa página de notícias.
 
+Para mais informações sobre a parte de Kubernetes e deployment consultar o relatório, [aqui](./report.pdf)
+
+A demo do projeto pode ser consutlada [aqui](https://www.youtube.com/watch?v=C2yAi3COBeA&feature=youtu.be)
+
 O blog estará dividido em 4 tipos de utilizadores:
 
 - Admin: tem a função de gerir toda a plataforma e rever o trabalho dos gestores
